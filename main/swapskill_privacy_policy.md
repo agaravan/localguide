@@ -1,11 +1,11 @@
-# Privacy Policy for Tinder: Swap your Skill
+# Privacy Policy for  : Swap your Skill
 
 **Effective Date:** June 28, 2025  
 **Last Updated:** June 28, 2025
 
 ## Introduction
 
-Welcome to Tinder: Swap your Skill ("we," "our," or "us"). We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and related services (collectively, the "Service").
+Welcome to  : Swap your Skill ("we," "our," or "us"). We are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application and related services (collectively, the "Service").
 
 By using our Service, you agree to the collection and use of information in accordance with this Privacy Policy.
 
@@ -161,9 +161,9 @@ Your continued use of the Service after changes become effective constitutes acc
 
 If you have questions about this Privacy Policy or our privacy practices, please contact us:
 
-**Email:** privacy@tinderswapskill.com  
+**Email:** privacy@ swapskill.com  
 **Address:** [Your Company Address]  
-**Data Protection Officer:** dpo@tinderswapskill.com
+**Data Protection Officer:** dpo@ swapskill.com
 
 ### For EU Users
 If you are located in the European Union, you have the right to lodge a complaint with your local data protection authority.
@@ -173,7 +173,7 @@ California residents have additional rights under the California Consumer Privac
 
 ## Consent
 
-By using Tinder: Swap your Skill, you consent to the collection, use, and sharing of your information as described in this Privacy Policy.
+By using  : Swap your Skill, you consent to the collection, use, and sharing of your information as described in this Privacy Policy.
 
 ---
 
