@@ -1,6 +1,6 @@
 A comprehensive privacy policy is crucial for your app's success on the Play Store. It builds user trust and ensures compliance with global regulations like GDPR and CCPA.
 
-Here is a template you can use for the WealthWise app. Simply fill in the bracketed information with your company's details.
+Here is a template you can use for the WealthWise - India app. Simply fill in the bracketed information with your company's details.
 
 ***
 
@@ -8,7 +8,7 @@ Here is a template you can use for the WealthWise app. Simply fill in the bracke
 
 **Last Updated:** [Date, e.g., August 26, 2025]
 
-This Privacy Policy describes how [Your Company Name] (“we,” “us,” or “our”) collects, uses, and discloses your information when you use the WealthWise mobile application (the “App”).
+This Privacy Policy describes how WealthWise - India app (“we,” “us,” or “our”) collects, uses, and discloses your information when you use the WealthWise mobile application (the “App”).
 
 By using our App, you consent to the collection and use of your information as described in this policy.
 
