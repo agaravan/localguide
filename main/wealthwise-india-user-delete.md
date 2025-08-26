@@ -16,7 +16,7 @@ Your privacy is important to us. This document outlines how you can permanently 
     * Select "Settings."
 
 2.  **Locate the "Delete My Profile" Button:**
-    * Within the "Settings" menu, scroll down until you find the "Delete My Profile" button. This button is typically located under a "Account" or "Privacy" section.
+    * Within the "Settings" menu, scroll down until you find the "Delete My Account" button. This button is typically located under a "Account" or "Privacy" section.
 
 3.  **Initiate Deletion:**
     * Tap on the "Delete My Profile" button.
